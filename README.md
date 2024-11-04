@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there!
+If my projects help you reduce time to develop, you can give me a cup of coffee :) <br>
+저의 프로젝트가 도움이 되었다면 커피 한 잔 사 주세요~ ^^ <br> <br>
+Project sponsorship (프로젝트 후원)
+- 카카오페이 (휴대폰으로 접속 후 카카오톡 사용): https://qr.kakaopay.com/FSvyb8x0E
+- Bitcoin (BTC) 비트코인 주소: 16kC7PUd75rvmwom4oftXRyg3gR9KTPb4m
+- Ethereum (ETH) 이더리움 주소: 0x90B45D2CBBB0367D50590659845C486497F89cBB
+
 
 <!--
 **godmode2k/godmode2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
